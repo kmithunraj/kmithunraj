@@ -1,4 +1,6 @@
 
+
+
 Finally Figured out how to use github's readme!
 
 # Hi there, I'm Mithun👋 
@@ -6,9 +8,9 @@ Finally Figured out how to use github's readme!
 ## I'm a Student, Programmer and Developer.
 
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django.
 - 👯 I’m looking to learn more about the world of programming.
-- 🥅 2022 Goals: Learn more about React and React Native
+- 🥅 2023 Goals: Become a full stack developer.
 
 
 ### Connect with me:
