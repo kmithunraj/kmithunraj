@@ -28,6 +28,6 @@ Finally Figured out how to use github's readme!
 ![Mithun's github stats](https://github-readme-stats.vercel.app/api?username=kmithunraj&show_icons=true&theme=tokyonight)
 
 
-![Mithun's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratosh22&theme=radical&include_all_commits=true&count_private=true)
+![Mithun's github streak](https://github-readme-streak-stats.herokuapp.com/?user=kmithunraj&theme=radical&include_all_commits=true&count_private=true)
 
 ![Github ](https://komarev.com/ghpvc/?username=kmithunraj&color=blueviolet)
