@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to learn more about the world of programming.
 - 🥅 2023 Goals: Become a full stack developer.
-- - 📫 How to reach me **kmithunraj02@gmail.com**
+- 📫 How to reach me: **kmithunraj02@gmail.com**
 
 
 ### Connect with me:
