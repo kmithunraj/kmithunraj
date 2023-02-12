@@ -1,15 +1,13 @@
-<img style="width:100%;" src="https://user-images.githubusercontent.com/109347841/218289333-9b451f94-2b9e-4b1d-b8c1-04a47222d39d.png">
+<img align="center" style="width:100%;" src="https://user-images.githubusercontent.com/109347841/218289663-d73f8ce3-d8e8-48de-a94d-fcb9aa390422.png">
 
-Finally Figured out how to use github's readme!
-
-# Hi there, I'm Mithun👋 
-
-## I'm a Student, Programmer and Developer.
+<h1 align="center">Hi 👋, I'm Mithun</h1>
+<h3 align="center">I'm a Student, Programmer and Developer from India.</h3>
 
 
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to learn more about the world of programming.
 - 🥅 2023 Goals: Become a full stack developer.
+- - 📫 How to reach me **kmithunraj02@gmail.com**
 
 
 ### Connect with me:
@@ -28,5 +26,9 @@ Finally Figured out how to use github's readme!
 
 
 ![Mithun's github streak](https://github-readme-streak-stats.herokuapp.com/?user=kmithunraj&theme=radical&include_all_commits=true&count_private=true)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmithunraj&show_icons=true&locale=en&layout=compact"/>
+
 
 ![Github ](https://komarev.com/ghpvc/?username=kmithunraj&color=blueviolet)
