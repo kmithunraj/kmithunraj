@@ -4,9 +4,8 @@
 <h3 align="center">A programmer who talks with code.</h3>
 
 
-- 🌱 I’m currently learning Django.
+- 🌱 I’m expert in ReactJs and NodeJs.
 - 👯 I’m looking to learn more about the world of programming.
-- 🥅 2023 Goals: Become a full stack developer.
 - 📫 How to reach me: **mixhunraj@gmail.com**
 
 
