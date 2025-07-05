@@ -1,13 +1,13 @@
 <img align="center" style="width:100%;" src="https://user-images.githubusercontent.com/109347841/218289663-d73f8ce3-d8e8-48de-a94d-fcb9aa390422.png">
 
 <h1 align="center">Hi 👋, I'm Mithun</h1>
-<h3 align="center">I'm a Student, Programmer and Developer from India.</h3>
+<h3 align="center">A programmer who talks with code.</h3>
 
 
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to learn more about the world of programming.
 - 🥅 2023 Goals: Become a full stack developer.
-- 📫 How to reach me: **kmithunraj02@gmail.com**
+- 📫 How to reach me: **mixhunraj@gmail.com**
 
 
 ### Connect with me:
