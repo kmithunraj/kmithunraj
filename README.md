@@ -21,8 +21,6 @@
 
 ### Stats:
 
-![Mithun's github stats](https://github-readme-stats.vercel.app/api?username=kmithunraj&show_icons=true&theme=tokyonight)
-
 
 ![Mithun's github streak](https://github-readme-streak-stats.herokuapp.com/?user=kmithunraj&theme=radical&include_all_commits=true&count_private=true)
 
